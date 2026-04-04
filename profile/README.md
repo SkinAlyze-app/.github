@@ -12,4 +12,4 @@ We focus on:
 https://skinalyze.app
 
 ## Status
-Private beta
+Open Beta
