@@ -10,6 +10,11 @@ We focus on:
 
 ## Product
 https://skinalyze.app
+Upcoming SkinAlyze Browser Extension
 
 ## Status
 Open Beta
+
+
+## Support
+support@skinalyze.app
