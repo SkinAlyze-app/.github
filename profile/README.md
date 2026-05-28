@@ -11,7 +11,7 @@ We focus on:
 ## Product
 https://skinalyze.app
 
-Upcoming SkinAlyze Browser Extension
+SkinAlyze Browser Extension
 
 ## Status
 Open Beta
